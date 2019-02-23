@@ -1,0 +1,2 @@
+2.program memory: 8192bytes
+  RAM: 256Kbytes

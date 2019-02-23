@@ -1,0 +1,24 @@
+http://simulator.io/board/mUQ7jKrsXp/5
+http://simulator.io/board/mUQ7jKrsXp/7
+Session2, FullAdder for 8Bits
+
+Figure 13:
+https://simulator.io/board/Kjfian1CYO/1
+Figure 17:
+https://simulator.io/board/ZttipbHVES/2
+Figure 19:
+http://simulator.io/board/45pB0lsJwe/2
+Figure 20: (Decoder)
+http://simulator.io/board/keKfgoqhQl/2
+Figure 23: (ANx)
+http://simulator.io/board/mX9rdIGhe1/4
+Figure 22: (ORx)
+https://simulator.io/board/DWA1LuKHf5/1
+Everything:
+http://simulator.io/board/45pB0lsJwe/8
+
+Hand In
+http://simulator.io/board/mUQ7jKrsXp/12
+
+http://simulator.io/board/cJrfbylGFX/2
+http://simulator.io/board/45pB0lsJwe/9
